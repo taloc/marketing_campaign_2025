@@ -40,8 +40,7 @@ The `marketing_campaign_performance.csv` file contains the following columns:
 ## Notes
 
 - This dataset is a sample derived from the Kaggle Marketing Campaign Performance Dataset, representing a subset of the agency's campaign data. Due to privacy concerns, the original dataset is not shared. [Kaggle Marketing Campaign Performance Dataset](https://www.kaggle.com/datasets/manishabhatt22/marketing-campaign-performance-dataset/data).
-- The dataset is designed to support Power BI visualizations focusing on ROI, conversion rates, audience engagement, and channel performance.
-- Ensure the `Acquisition_Cost` column is cleaned (e.g., remove "$" and commas) for numerical analysis in Power BI.
+
 
 ## License
 
