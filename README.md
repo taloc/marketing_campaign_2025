@@ -1,5 +1,3 @@
-# marketing_campaign_2025
-
 # Marketing Campaign Performance Dashboard
 
 ## Overview
@@ -13,12 +11,12 @@ This repository contains a sample marketing campaign performance dataset for a d
 
 ## Repository Content
 
-- `marketing_campaign_performance.csv`: Sample dataset containing marketing campaign performance data.
+- `marketing_campaign_dataset.csv`: 6 months dataset containing marketing campaign performance data.
 - `README.md`: This file, providing an overview and instructions.
 
 ## Data Description
 
-The `marketing_campaign_performance.csv` file contains the following columns:
+The `marketing_campaign_dataset.csv` file contains the following columns:
 
 | Column Name         | Description                                                                 | Data Type  |
 |---------------------|-----------------------------------------------------------------------------|------------|
